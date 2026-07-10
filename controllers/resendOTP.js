@@ -99,7 +99,7 @@ export const resendOTP = async (data, callback) => {
   Ashirwad No.U-11, 1st cross, Pipeline, Malleshwaram, Bangalore-560003
 </p>
 
-        <p style="margin: 0; margin-top: 16px; color: #ffffff; text-align: center;">
+        <p style="margin: 0; margin-top: 16px; color:#ffffff; text-align: center;">
           Copyright © <span style="color: #ce1219;">2026</span> Company. All rights reserved.
         </p>
       </footer>
