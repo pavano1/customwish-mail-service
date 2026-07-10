@@ -114,7 +114,7 @@ ${data?.tracking_url ? `
 </p>
 
         <p style="margin: 0; margin-top: 16px; color: #ffffff; text-align: center;">
-          Copyright © <span style="color: #ce1219;">2025</span> Company. All rights reserved.
+          Copyright © <span style="color: #ce1219;">2026</span> Company. All rights reserved.
         </p>
       </footer>
     </div>
@@ -218,7 +218,7 @@ ${data?.tracking_url ? `
 </p>
 
         <p style="margin: 0; margin-top: 16px; color: #ffffff; text-align: center;">
-          Copyright © <span style="color: #ce1219;">2025</span> Company. All rights reserved.
+          Copyright © <span style="color: #ce1219;">2026</span> Company. All rights reserved.
         </p>
       </footer>
     </div>
@@ -323,7 +323,7 @@ ${data?.tracking_url ? `
 </p>
 
         <p style="margin: 0; margin-top: 16px; color: #ffffff; text-align: center;">
-          Copyright © <span style="color: #ce1219;">2025</span> Company. All rights reserved.
+          Copyright © <span style="color: #ce1219;">2026</span> Company. All rights reserved.
         </p>
       </footer>
     </div>
@@ -427,7 +427,7 @@ ${data?.tracking_url ? `
 </p>
 
         <p style="margin: 0; margin-top: 16px; color: #ffffff; text-align: center;">
-          Copyright © <span style="color: #ce1219;">2025</span> Company. All rights reserved.
+          Copyright © <span style="color: #ce1219;">2026</span> Company. All rights reserved.
         </p>
       </footer>
     </div>
@@ -524,7 +524,7 @@ ${data?.tracking_url ? `
 </p>
 
         <p style="margin: 0; margin-top: 16px; color: #ffffff; text-align: center;">
-          Copyright © <span style="color: #ce1219;">2025</span> Company. All rights reserved.
+          Copyright © <span style="color: #ce1219;">2026</span> Company. All rights reserved.
         </p>
       </footer>
     </div>
@@ -616,7 +616,7 @@ ${data?.tracking_url ? `
 </p>
 
         <p style="margin: 0; margin-top: 16px; color: #ffffff; text-align: center;">
-          Copyright © <span style="color: #ce1219;">2025</span> Company. All rights reserved.
+          Copyright © <span style="color: #ce1219;">2026</span> Company. All rights reserved.
         </p>
       </footer>
     </div>
